@@ -16,7 +16,7 @@
 }
 .back{
     height: 310px;
-    background-image: url(/img/copm_img.jpeg);
+    background-image: url(../img/copm_img.jpeg);
     background-position: center;
     background-size: cover;
 }
